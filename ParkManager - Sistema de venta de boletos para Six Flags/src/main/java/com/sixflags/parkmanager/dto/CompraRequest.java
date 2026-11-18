@@ -3,7 +3,7 @@ package com.sixflags.parkmanager.dto;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 
-public class CompraRquest {
+public class CompraRequest {
 
     @NotBlank(message = "Eltipo de boleto es obligatorio")
     private String tipo;

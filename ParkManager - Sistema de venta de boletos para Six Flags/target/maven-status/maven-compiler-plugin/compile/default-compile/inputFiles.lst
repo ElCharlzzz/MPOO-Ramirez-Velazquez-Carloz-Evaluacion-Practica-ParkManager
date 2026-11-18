@@ -1,0 +1,14 @@
+C:\JavaP\MPOO-Ramirez-Velazquez-Carloz-Evaluacion-Practica-ParkManager\ParkManager - Sistema de venta de boletos para Six Flags\src\main\java\com\sixflags\parkmanager\model\BoletoPaseAnual.java
+C:\JavaP\MPOO-Ramirez-Velazquez-Carloz-Evaluacion-Practica-ParkManager\ParkManager - Sistema de venta de boletos para Six Flags\src\main\java\com\sixflags\parkmanager\dto\DescuentoRequest.java
+C:\JavaP\MPOO-Ramirez-Velazquez-Carloz-Evaluacion-Practica-ParkManager\ParkManager - Sistema de venta de boletos para Six Flags\src\main\java\com\sixflags\parkmanager\ParkManagerApplication.java
+C:\JavaP\MPOO-Ramirez-Velazquez-Carloz-Evaluacion-Practica-ParkManager\ParkManager - Sistema de venta de boletos para Six Flags\src\main\java\com\sixflags\parkmanager\model\BoletoGeneral.java
+C:\JavaP\MPOO-Ramirez-Velazquez-Carloz-Evaluacion-Practica-ParkManager\ParkManager - Sistema de venta de boletos para Six Flags\src\main\java\com\sixflags\parkmanager\controller\DescuentosController.java
+C:\JavaP\MPOO-Ramirez-Velazquez-Carloz-Evaluacion-Practica-ParkManager\ParkManager - Sistema de venta de boletos para Six Flags\src\main\java\com\sixflags\parkmanager\controller\ComprasController.java
+C:\JavaP\MPOO-Ramirez-Velazquez-Carloz-Evaluacion-Practica-ParkManager\ParkManager - Sistema de venta de boletos para Six Flags\src\main\java\com\sixflags\parkmanager\exception\GlobalExceptionHandler.java
+C:\JavaP\MPOO-Ramirez-Velazquez-Carloz-Evaluacion-Practica-ParkManager\ParkManager - Sistema de venta de boletos para Six Flags\src\main\java\com\sixflags\parkmanager\service\ParkManagerService.java
+C:\JavaP\MPOO-Ramirez-Velazquez-Carloz-Evaluacion-Practica-ParkManager\ParkManager - Sistema de venta de boletos para Six Flags\src\main\java\com\sixflags\parkmanager\dto\CompraRequest.java
+C:\JavaP\MPOO-Ramirez-Velazquez-Carloz-Evaluacion-Practica-ParkManager\ParkManager - Sistema de venta de boletos para Six Flags\src\main\java\com\sixflags\parkmanager\model\BoletoAlumno.java
+C:\JavaP\MPOO-Ramirez-Velazquez-Carloz-Evaluacion-Practica-ParkManager\ParkManager - Sistema de venta de boletos para Six Flags\src\main\java\com\sixflags\parkmanager\exception\ParkManagerException.java
+C:\JavaP\MPOO-Ramirez-Velazquez-Carloz-Evaluacion-Practica-ParkManager\ParkManager - Sistema de venta de boletos para Six Flags\src\main\java\com\sixflags\parkmanager\model\Boleto.java
+C:\JavaP\MPOO-Ramirez-Velazquez-Carloz-Evaluacion-Practica-ParkManager\ParkManager - Sistema de venta de boletos para Six Flags\src\main\java\com\sixflags\parkmanager\model\BoletoProfesor.java
+C:\JavaP\MPOO-Ramirez-Velazquez-Carloz-Evaluacion-Practica-ParkManager\ParkManager - Sistema de venta de boletos para Six Flags\src\main\java\com\sixflags\parkmanager\dto\ErrorResponse.java
