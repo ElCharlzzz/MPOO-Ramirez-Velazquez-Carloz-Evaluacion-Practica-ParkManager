@@ -1,0 +1,4 @@
+dividi el proyecto en cinco paquetes model, service, controller, dto y exception, para que cada capa haga únicamente su trabajo, Los controladores solo reciben las peticiones y devuelven respuestas, el servicio se encarga de las reglas del negocio y los calculos acumulados, y el modelo representa los boletos
+tamebin cree una clase base abstracta (Boleto) que guarda el porcentaje de descuento y contiene la fórmula para calcular el precio final y las cuatro modalidades GENERAL, PASE_ANUAL, ALUMNO y PROFESOR heredan de ella y unicamente definen su precio base y su nombre
+en cada compra primero se revisa que el tipo de boleto y la cantidad sean válidos solo si todo es correcto se suma el monto a los ingresos acumulados
+creé una excepción personalizada ParkManagerException y un manejador global GlobalExceptionHandler asegura que cualquier error de negocio o dato faltante se responda de forma uniforme con un código 400 Bad Request y un mensaje claro en formato JSON
